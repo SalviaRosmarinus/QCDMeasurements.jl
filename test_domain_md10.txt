@@ -1,0 +1,113 @@
+----------------------------------------------
+Structure of the actions for Gaugefields
+num. of terms: 1
+-------------------------------
+      1-st term: 
+          coefficient: 2.75 + 0.0im
+      -------------------------
+1-st loop
+L"$U_{1}(n)U_{2}(n+e_{1})U^{\dagger}_{1}(n+e_{2})U^{\dagger}_{2}(n)$"	
+2-nd loop
+L"$U_{1}(n)U_{3}(n+e_{1})U^{\dagger}_{1}(n+e_{3})U^{\dagger}_{3}(n)$"	
+3-rd loop
+L"$U_{1}(n)U_{4}(n+e_{1})U^{\dagger}_{1}(n+e_{4})U^{\dagger}_{4}(n)$"	
+4-th loop
+L"$U_{2}(n)U_{3}(n+e_{2})U^{\dagger}_{2}(n+e_{3})U^{\dagger}_{3}(n)$"	
+5-th loop
+L"$U_{2}(n)U_{4}(n+e_{2})U^{\dagger}_{2}(n+e_{4})U^{\dagger}_{4}(n)$"	
+6-th loop
+L"$U_{3}(n)U_{4}(n+e_{3})U^{\dagger}_{3}(n+e_{4})U^{\dagger}_{4}(n)$"	
+7-th loop
+L"$U_{2}(n)U_{1}(n+e_{2})U^{\dagger}_{2}(n+e_{1})U^{\dagger}_{1}(n)$"	
+8-th loop
+L"$U_{3}(n)U_{1}(n+e_{3})U^{\dagger}_{3}(n+e_{1})U^{\dagger}_{1}(n)$"	
+9-th loop
+L"$U_{4}(n)U_{1}(n+e_{4})U^{\dagger}_{4}(n+e_{1})U^{\dagger}_{1}(n)$"	
+10-th loop
+L"$U_{3}(n)U_{2}(n+e_{3})U^{\dagger}_{3}(n+e_{2})U^{\dagger}_{2}(n)$"	
+11-th loop
+L"$U_{4}(n)U_{2}(n+e_{4})U^{\dagger}_{4}(n+e_{2})U^{\dagger}_{2}(n)$"	
+12-th loop
+L"$U_{4}(n)U_{3}(n+e_{4})U^{\dagger}_{4}(n+e_{3})U^{\dagger}_{3}(n)$"	
+      -------------------------
+----------------------------------------------
+Sfold = 12124.14697000742
+Sold = 7710.400262754707
+Sfnew = 12125.330149002413
+Sold = 7710.400262754707, Snew = 7692.313382990286
+Snew - Sold = -18.0868797644207
+  1.776582 seconds (371.26 k allocations: 32.496 MiB, 0.19% gc time)
+1 plaq_t = 0.8139150377564327
+acceptance ratio 1.0
+Sfold = 12445.61171644931
+Sold = 9626.477924271383
+Sfnew = 12446.517897090787
+Sold = 9626.477924271383, Snew = 9617.419348965628
+Snew - Sold = -9.058575305754857
+  2.141038 seconds (444.23 k allocations: 38.849 MiB, 0.09% gc time)
+2 plaq_t = 0.711185446723981
+acceptance ratio 1.0
+Sfold = 12324.407909328864
+Sold = 10390.889036557981
+Sfnew = 12326.5941812356
+Sold = 10390.889036557981, Snew = 10389.84617778185
+Snew - Sold = -1.0428587761307426
+  2.120481 seconds (449.14 k allocations: 39.277 MiB)
+3 plaq_t = 0.6543681191231686
+acceptance ratio 1.0
+Sfold = 12437.152901513155
+Sold = 11119.899509446808
+Sfnew = 12439.07698295645
+Sold = 11119.899509446808, Snew = 11120.0739584778
+Snew - Sold = 0.17444903099203657
+  2.171320 seconds (457.34 k allocations: 39.992 MiB, 0.06% gc time)
+4 plaq_t = 0.5949306446802782
+acceptance ratio 1.0
+Sfold = 12317.664796164872
+Sold = 11383.671200816229
+Sfnew = 12316.878158134217
+Sold = 11383.671200816229, Snew = 11380.497738865772
+Snew - Sold = -3.17346195045684
+  2.175040 seconds (462.94 k allocations: 40.481 MiB, 0.06% gc time)
+5 plaq_t = 0.5741556226857175
+acceptance ratio 1.0
+Sfold = 12295.532016414454
+Sold = 11537.323110951056
+Sfnew = 12296.596867910184
+Sold = 11537.323110951056, Snew = 11538.636691238684
+Snew - Sold = 1.3135802876277012
+  2.182173 seconds (463.61 k allocations: 40.539 MiB)
+6 plaq_t = 0.5741556226857175
+acceptance ratio 0.8333333333333334
+Sfold = 12232.179251567046
+Sold = 11452.792657714715
+Sfnew = 12233.112542353887
+Sold = 11452.792657714715, Snew = 11454.156941601774
+Snew - Sold = 1.3642838870582636
+  2.220484 seconds (470.83 k allocations: 41.169 MiB, 0.05% gc time)
+7 plaq_t = 0.5741556226857175
+acceptance ratio 0.7142857142857143
+Sfold = 12328.251650524457
+Sold = 11607.140853170647
+Sfnew = 12329.4156058499
+Sold = 11607.140853170647, Snew = 11609.275936164786
+Snew - Sold = 2.135082994138429
+  2.197324 seconds (466.89 k allocations: 40.825 MiB, 0.06% gc time)
+8 plaq_t = 0.5741556226857175
+acceptance ratio 0.625
+Sfold = 12255.832151456469
+Sold = 11544.952758824902
+Sfnew = 12256.966078915097
+Sold = 11544.952758824902, Snew = 11546.88984647444
+Snew - Sold = 1.937087649537716
+  2.210161 seconds (464.27 k allocations: 40.597 MiB)
+9 plaq_t = 0.5741556226857175
+acceptance ratio 0.5555555555555556
+Sfold = 12337.13177556551
+Sold = 11560.378030876798
+Sfnew = 12338.65197539026
+Sold = 11560.378030876798, Snew = 11563.09452758609
+Snew - Sold = 2.716496709292187
+  2.266879 seconds (467.55 k allocations: 40.883 MiB, 0.07% gc time)
+10 plaq_t = 0.5741556226857175
+acceptance ratio 0.5

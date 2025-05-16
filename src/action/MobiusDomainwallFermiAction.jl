@@ -118,7 +118,9 @@ function calc_UdSfdU_fromX!(
     apply_F!(X, L5, m, X0, temp1)  #X = F(m)*Q^-1 D5_PV'*ϕ
 
     for i5 = 1:L5
-        add!((c - b) / 2, X.w[i5], (c + b) / 2, X0.w[i5]) #X = (c-b)/2 * F(m)*Q^-1 D5_PV'*ϕ + (c+b)/2 * Q^-1 D5_PV'*ϕ
+        # add!((c - b) / 2, X.w[i5], (c + b) / 2, X0.w[i5]) #X = (c-b)/2 * F(m)*Q^-1 D5_PV'*ϕ + (c+b)/2 * Q^-1 D5_PV'*ϕ
+        # b-cに変更
+        add!((b - c) / 2, X.w[i5], (c + b) / 2, X0.w[i5]) #X = (c-b)/2 * F(m)*Q^-1 D5_PV'*ϕ + (c+b)/2 * Q^-1 D5_PV'*ϕ
     end
 
     apply_δF!(Z, L5, 1 - m, X0, temp1) #Z = dF(1-m)*Q^-1 D5_PV'*ϕ

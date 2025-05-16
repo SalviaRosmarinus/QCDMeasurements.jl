@@ -1,0 +1,353 @@
+----------------------------------------------
+Structure of the actions for Gaugefields
+num. of terms: 1
+-------------------------------
+      1-st term: 
+          coefficient: 2.75 + 0.0im
+      -------------------------
+1-st loop
+L"$U_{1}(n)U_{2}(n+e_{1})U^{\dagger}_{1}(n+e_{2})U^{\dagger}_{2}(n)$"	
+2-nd loop
+L"$U_{1}(n)U_{3}(n+e_{1})U^{\dagger}_{1}(n+e_{3})U^{\dagger}_{3}(n)$"	
+3-rd loop
+L"$U_{1}(n)U_{4}(n+e_{1})U^{\dagger}_{1}(n+e_{4})U^{\dagger}_{4}(n)$"	
+4-th loop
+L"$U_{2}(n)U_{3}(n+e_{2})U^{\dagger}_{2}(n+e_{3})U^{\dagger}_{3}(n)$"	
+5-th loop
+L"$U_{2}(n)U_{4}(n+e_{2})U^{\dagger}_{2}(n+e_{4})U^{\dagger}_{4}(n)$"	
+6-th loop
+L"$U_{3}(n)U_{4}(n+e_{3})U^{\dagger}_{3}(n+e_{4})U^{\dagger}_{4}(n)$"	
+7-th loop
+L"$U_{2}(n)U_{1}(n+e_{2})U^{\dagger}_{2}(n+e_{1})U^{\dagger}_{1}(n)$"	
+8-th loop
+L"$U_{3}(n)U_{1}(n+e_{3})U^{\dagger}_{3}(n+e_{1})U^{\dagger}_{1}(n)$"	
+9-th loop
+L"$U_{4}(n)U_{1}(n+e_{4})U^{\dagger}_{4}(n+e_{1})U^{\dagger}_{1}(n)$"	
+10-th loop
+L"$U_{3}(n)U_{2}(n+e_{3})U^{\dagger}_{3}(n+e_{2})U^{\dagger}_{2}(n)$"	
+11-th loop
+L"$U_{4}(n)U_{2}(n+e_{4})U^{\dagger}_{4}(n+e_{2})U^{\dagger}_{2}(n)$"	
+12-th loop
+L"$U_{4}(n)U_{3}(n+e_{4})U^{\dagger}_{4}(n+e_{3})U^{\dagger}_{3}(n)$"	
+      -------------------------
+----------------------------------------------
+Sfold = 5976.733638871131
+Sold = -2742.781282650377
+Sfnew = 5976.705333718913
+Sold = -2742.781282650377, Snew = -2743.2471936042357
+Snew - Sold = -0.4659109538588382
+  0.336482 seconds (3.95 k allocations: 555.211 KiB)
+1 plaq_t = 0.9744832347300614
+acceptance ratio 1.0
+Sfold = 6067.198563413151
+Sold = -2257.623788933086
+Sfnew = 6068.672741972135
+Sold = -2257.623788933086, Snew = -2258.0369050854106
+Snew - Sold = -0.4131161523246192
+  0.366298 seconds (4.20 k allocations: 577.477 KiB)
+2 plaq_t = 0.9510608289073723
+acceptance ratio 1.0
+Sfold = 6250.629361506025
+Sold = -1664.1384842098932
+Sfnew = 6260.678751957563
+Sold = -1664.1384842098932, Snew = -1664.5104858511486
+Snew - Sold = -0.37200164125533774
+  0.379728 seconds (4.32 k allocations: 588.273 KiB)
+3 plaq_t = 0.9292046941078246
+acceptance ratio 1.0
+Sfold = 6165.612396293735
+Sold = -1364.4282344459616
+Sfnew = 6170.87640300738
+Sold = -1364.4282344459616, Snew = -1364.7339293695186
+Snew - Sold = -0.3056949235569846
+  0.405381 seconds (4.54 k allocations: 607.906 KiB)
+4 plaq_t = 0.9101248368683986
+acceptance ratio 1.0
+Sfold = 6189.669850321486
+Sold = -1018.7216880737442
+Sfnew = 6197.319519264961
+Sold = -1018.7216880737442, Snew = -1019.0024975002898
+Snew - Sold = -0.28080942654560204
+  0.406857 seconds (4.53 k allocations: 606.289 KiB)
+5 plaq_t = 0.8921584354959555
+acceptance ratio 1.0
+Sfold = 6083.457148294651
+Sold = -809.8608124179291
+Sfnew = 6085.526105118707
+Sold = -809.8608124179291, Snew = -810.0660233478566
+Snew - Sold = -0.2052109299274889
+  0.402812 seconds (4.46 k allocations: 601.117 KiB)
+6 plaq_t = 0.8768839745300848
+acceptance ratio 1.0
+Sfold = 6267.974124444143
+Sold = -460.08203150586996
+Sfnew = 6281.0218096548
+Sold = -460.08203150586996, Snew = -460.2764517833548
+Snew - Sold = -0.1944202774848236
+  0.406893 seconds (4.54 k allocations: 608.312 KiB)
+7 plaq_t = 0.8630249157836565
+acceptance ratio 1.0
+Sfold = 6111.852269735767
+Sold = -270.2330385734467
+Sfnew = 6120.098266049467
+Sold = -270.2330385734467, Snew = -270.4099061307779
+Snew - Sold = -0.17686755733120663
+  0.401852 seconds (4.50 k allocations: 604.031 KiB)
+8 plaq_t = 0.8506792180999643
+acceptance ratio 1.0
+Sfold = 6196.386315242614
+Sold = 57.37088748287442
+Sfnew = 6218.444698786957
+Sold = 57.37088748287442, Snew = 57.20729337348075
+Snew - Sold = -0.1635941093936708
+  0.408550 seconds (4.58 k allocations: 611.727 KiB)
+9 plaq_t = 0.8390841471701549
+acceptance ratio 1.0
+Sfold = 6124.766798129173
+Sold = 216.19320925379452
+Sfnew = 6127.406466391298
+Sold = 216.19320925379452, Snew = 216.06810067522565
+Snew - Sold = -0.12510857856887014
+  0.391485 seconds (4.43 k allocations: 598.148 KiB)
+10 plaq_t = 0.8286609911619077
+acceptance ratio 1.0
+Sfold = 6201.077867626812
+Sold = 375.47625130220786
+Sfnew = 6205.145368290729
+Sold = 375.47625130220786, Snew = 375.3386904321269
+Snew - Sold = -0.13756087008096074
+  0.395462 seconds (4.45 k allocations: 599.375 KiB)
+11 plaq_t = 0.8173064434398754
+acceptance ratio 1.0
+Sfold = 6145.549501795705
+Sold = 388.2342474825282
+Sfnew = 6148.796398855498
+Sold = 388.2342474825282, Snew = 388.1210524227554
+Snew - Sold = -0.11319505977280642
+  0.397538 seconds (4.47 k allocations: 601.984 KiB)
+12 plaq_t = 0.8068214854723795
+acceptance ratio 1.0
+Sfold = 6292.97747489197
+Sold = 853.2310603926016
+Sfnew = 6295.773376355249
+Sold = 853.2310603926016, Snew = 853.1369732314552
+Snew - Sold = -0.09408716114648996
+  0.396929 seconds (4.46 k allocations: 601.016 KiB)
+13 plaq_t = 0.7988844551041464
+acceptance ratio 1.0
+Sfold = 6208.048255068087
+Sold = 902.9373257243724
+Sfnew = 6211.453345386156
+Sold = 902.9373257243724, Snew = 902.8187875284602
+Snew - Sold = -0.11853819591215142
+  0.394143 seconds (4.44 k allocations: 599.516 KiB)
+14 plaq_t = 0.7892271156656043
+acceptance ratio 1.0
+Sfold = 6201.448057440064
+Sold = 1034.594582206848
+Sfnew = 6201.830768533802
+Sold = 1034.594582206848, Snew = 1034.4880335502912
+Snew - Sold = -0.1065486565566971
+  0.392820 seconds (4.43 k allocations: 597.914 KiB)
+15 plaq_t = 0.7802954135915812
+acceptance ratio 1.0
+Sfold = 6074.305271413614
+Sold = 1066.5544622344678
+Sfnew = 6080.964016645714
+Sold = 1066.5544622344678, Snew = 1066.4443202101993
+Snew - Sold = -0.11014202426849806
+  0.388607 seconds (4.38 k allocations: 594.328 KiB)
+16 plaq_t = 0.7705309798891848
+acceptance ratio 1.0
+Sfold = 6055.184822818603
+Sold = 1010.3847437047752
+Sfnew = 6054.767349306257
+Sold = 1010.3847437047752, Snew = 1010.3494415896494
+Snew - Sold = -0.03530211512588721
+  0.388089 seconds (4.37 k allocations: 593.039 KiB)
+17 plaq_t = 0.7665519958303275
+acceptance ratio 1.0
+Sfold = 6202.524423176589
+Sold = 1408.2310948293207
+Sfnew = 6197.669682584618
+Sold = 1408.2310948293207, Snew = 1408.1665757409737
+Snew - Sold = -0.06451908834696951
+  0.392475 seconds (4.43 k allocations: 598.359 KiB)
+18 plaq_t = 0.7577146287212669
+acceptance ratio 1.0
+Sfold = 6160.704372218599
+Sold = 1481.433867253787
+Sfnew = 6164.92087631985
+Sold = 1481.433867253787, Snew = 1481.3535317636688
+Snew - Sold = -0.08033549011815921
+  0.388078 seconds (4.40 k allocations: 595.727 KiB)
+19 plaq_t = 0.7502368679441329
+acceptance ratio 1.0
+Sfold = 6112.781410424411
+Sold = 1614.6470331110595
+Sfnew = 6110.318783909885
+Sold = 1614.6470331110595, Snew = 1614.599399078007
+Snew - Sold = -0.04763403305241809
+  0.383588 seconds (4.37 k allocations: 592.461 KiB)
+20 plaq_t = 0.7449893730502147
+acceptance ratio 1.0
+Sfold = 6190.945281376713
+Sold = 1741.0099019835689
+Sfnew = 6188.457179786081
+Sold = 1741.0099019835689, Snew = 1740.9658532665762
+Snew - Sold = -0.04404871699262003
+  0.381207 seconds (4.34 k allocations: 590.695 KiB)
+21 plaq_t = 0.7392319836957029
+acceptance ratio 1.0
+Sfold = 6190.529470383979
+Sold = 1991.8709263020555
+Sfnew = 6180.064043501463
+Sold = 1991.8709263020555, Snew = 1991.8466435873834
+Snew - Sold = -0.024282714672153816
+  0.376896 seconds (4.30 k allocations: 587.195 KiB)
+22 plaq_t = 0.7353279243265557
+acceptance ratio 1.0
+Sfold = 6128.309501818573
+Sold = 2153.755795383532
+Sfnew = 6139.340470350502
+Sold = 2153.755795383532, Snew = 2153.712626566745
+Snew - Sold = -0.04316881678732898
+  0.377062 seconds (4.30 k allocations: 587.008 KiB)
+23 plaq_t = 0.7306662552276542
+acceptance ratio 1.0
+Sfold = 6080.432287445899
+Sold = 2006.611658535343
+Sfnew = 6072.167844557288
+Sold = 2006.611658535343, Snew = 2006.578064261611
+Snew - Sold = -0.03359427373197832
+  0.381888 seconds (4.34 k allocations: 590.484 KiB)
+24 plaq_t = 0.725911981553104
+acceptance ratio 1.0
+Sfold = 6207.265850748692
+Sold = 2163.0227666892897
+Sfnew = 6205.223011107756
+Sold = 2163.0227666892897, Snew = 2162.970524575532
+Snew - Sold = -0.052242113757529296
+  0.374166 seconds (4.28 k allocations: 585.594 KiB)
+25 plaq_t = 0.7208646190500582
+acceptance ratio 1.0
+Sfold = 6282.336379434379
+Sold = 2264.8603060397945
+Sfnew = 6278.372331795642
+Sold = 2264.8603060397945, Snew = 2264.8325450681996
+Snew - Sold = -0.02776097159494384
+  0.380865 seconds (4.34 k allocations: 590.141 KiB)
+26 plaq_t = 0.7167035393800811
+acceptance ratio 1.0
+Sfold = 6090.40323000847
+Sold = 2017.1120585640747
+Sfnew = 6095.067434491747
+Sold = 2017.1120585640747, Snew = 2017.073144268873
+Snew - Sold = -0.03891429520172096
+  0.370900 seconds (4.26 k allocations: 582.828 KiB)
+27 plaq_t = 0.7121092331773882
+acceptance ratio 1.0
+Sfold = 6158.394278598357
+Sold = 2271.231084378659
+Sfnew = 6169.05132141785
+Sold = 2271.231084378659, Snew = 2271.1828292267883
+Snew - Sold = -0.04825515187076235
+  0.374140 seconds (4.28 k allocations: 585.023 KiB)
+28 plaq_t = 0.7075923251097537
+acceptance ratio 1.0
+Sfold = 6259.042979915435
+Sold = 2307.9229914831567
+Sfnew = 6257.271531820547
+Sold = 2307.9229914831567, Snew = 2307.9045673491473
+Snew - Sold = -0.018424134009364934
+  0.370443 seconds (4.25 k allocations: 582.789 KiB)
+29 plaq_t = 0.7034494211210275
+acceptance ratio 1.0
+Sfold = 6091.180258415943
+Sold = 2431.0447547930926
+Sfnew = 6101.288162134577
+Sold = 2431.0447547930926, Snew = 2431.0185376594854
+Snew - Sold = -0.02621713360713329
+  0.367609 seconds (4.23 k allocations: 580.391 KiB)
+30 plaq_t = 0.7002460823212538
+acceptance ratio 1.0
+Sfold = 6241.956132886306
+Sold = 2545.9363019249477
+Sfnew = 6242.321475530327
+Sold = 2545.9363019249477, Snew = 2545.914962504071
+Snew - Sold = -0.021339420876756776
+  0.343388 seconds (4.03 k allocations: 563.188 KiB)
+31 plaq_t = 0.696984461124044
+acceptance ratio 1.0
+Sfold = 6208.650995261746
+Sold = 2395.4887263898618
+Sfnew = 6204.559512930331
+Sold = 2395.4887263898618, Snew = 2395.4654917113958
+Snew - Sold = -0.023234678465996694
+  0.355453 seconds (4.14 k allocations: 572.586 KiB)
+32 plaq_t = 0.6937391861988832
+acceptance ratio 1.0
+Sfold = 6187.5522362713
+Sold = 2671.9301713987916
+Sfnew = 6185.497546438596
+Sold = 2671.9301713987916, Snew = 2671.8872671389117
+Snew - Sold = -0.04290425987983326
+  0.359322 seconds (4.17 k allocations: 575.297 KiB)
+33 plaq_t = 0.6889969195201079
+acceptance ratio 1.0
+Sfold = 6203.712004604042
+Sold = 2945.382887081294
+Sfnew = 6206.758505621349
+Sold = 2945.382887081294, Snew = 2945.368619567632
+Snew - Sold = -0.014267513662161946
+  0.362250 seconds (4.21 k allocations: 578.945 KiB)
+34 plaq_t = 0.6848834681327923
+acceptance ratio 1.0
+Sfold = 6124.0329033012085
+Sold = 2850.1779445064303
+Sfnew = 6118.402373505398
+Sold = 2850.1779445064303, Snew = 2850.1934917589606
+Snew - Sold = 0.015547252530268452
+  0.348054 seconds (4.08 k allocations: 567.180 KiB)
+35 plaq_t = 0.6839211639314698
+acceptance ratio 1.0
+Sfold = 6168.50321143544
+Sold = 2909.796412318532
+Sfnew = 6175.954668562312
+Sold = 2909.796412318532, Snew = 2909.7672397948772
+Snew - Sold = -0.02917252365477907
+  0.349067 seconds (4.08 k allocations: 567.641 KiB)
+36 plaq_t = 0.6803910973278092
+acceptance ratio 1.0
+Sfold = 6201.069180863743
+Sold = 2808.474473412134
+Sfnew = 6208.392569112546
+Sold = 2808.474473412134, Snew = 2808.4587971301316
+Snew - Sold = -0.01567628200245963
+  0.341009 seconds (4.02 k allocations: 562.078 KiB)
+37 plaq_t = 0.6794325318395561
+acceptance ratio 1.0
+Sfold = 6059.996771680226
+Sold = 2758.6361269255267
+Sfnew = 6064.122067596146
+Sold = 2758.6361269255267, Snew = 2758.6451617699086
+Snew - Sold = 0.00903484438185842
+  0.349056 seconds (4.10 k allocations: 569.750 KiB)
+38 plaq_t = 0.6783905582361022
+acceptance ratio 1.0
+Sfold = 6114.000626072975
+Sold = 2713.52122077719
+Sfnew = 6117.365324935221
+Sold = 2713.52122077719, Snew = 2713.5098693011487
+Snew - Sold = -0.011351476041454589
+  0.359384 seconds (4.17 k allocations: 575.602 KiB)
+39 plaq_t = 0.675532623476133
+acceptance ratio 1.0
+Sfold = 6091.082363452589
+Sold = 2783.8335939322415
+Sfnew = 6094.119995620324
+Sold = 2783.8335939322415, Snew = 2783.811664451855
+Snew - Sold = -0.021929480386461364
+  0.347269 seconds (4.08 k allocations: 567.375 KiB)
+40 plaq_t = 0.6731476602160937
+acceptance ratio 1.0
